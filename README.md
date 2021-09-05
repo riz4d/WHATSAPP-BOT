@@ -103,6 +103,7 @@
 | .wallpaper| Sends random high resolution wallpaper.|
 
 ### XMedia Plugin Commands 🛠️
+| Komut 💻 | Description ℹ️|
 | ---------- | -------------------- |
 | .mp4enhance| It improves the quality of the video.
 | .x2mp4| It reduces the quality of the video by 2 times.
@@ -134,6 +135,7 @@
 | .enhanceimage| It improves the quality of the photo.
 | .grenimage| Applies a grain effect to the photo.
 | .blurimage| Blurs the background of the photo.
+
 
 ### Scam Commands 🛠️
 | Command 💻 | Description ℹ️|
