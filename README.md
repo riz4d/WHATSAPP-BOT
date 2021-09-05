@@ -11,6 +11,8 @@
 
 <img alt="Toxi Mol" src="https://a.top4top.io/p_2074d3edc0.jpg"/>
 
+<a href="https://wa.me/447418326731"><img alt="Whatsapp[Toxi Mol]" src="https://img.shields.io/badge/Toxi Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
