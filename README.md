@@ -1,6 +1,6 @@
 ## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ [@ʀɪᴢᴀᴅ__x96]
 <details>
-    <summary>ʟɪᴄᴇɴsᴇ</summary><br/>
+    <summary>ʟɪᴄᴇɴsᴇ</summary><br/><h2></h2>
                                                         Apache License
                                                   Version 2.0, January 2004
                                                http://www.apache.org/licenses/
