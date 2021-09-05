@@ -1,4 +1,5 @@
-## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ <a href="https://www.instagram.com/rizad__x96"><img alt="Instagram" src="https://img.shields.io/badge/@rizad__x96-%2336465D.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ 
+               <a href="https://www.instagram.com/rizad__x96"><img alt="Instagram" src="https://img.shields.io/badge/@rizad__x96-%2336465D.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 <img alt="Toxi Mol" src="https://a.top4top.io/p_2074d3edc0.jpg"/>
 
