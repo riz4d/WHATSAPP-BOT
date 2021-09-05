@@ -1,4 +1,4 @@
-## ᴍᴀᴅᴇ ʙʏ ᴛᴏxɪᴄ ᴍᴡᴏʟ [@ʀɪᴢᴀᴅ__x96]
+## ᴛᴏxɪᴄ ᴍᴡᴏʟ ʙʏ [@ʀɪᴢᴀᴅ__x96]
 
 <img alt="Toxi Mol" src="https://a.top4top.io/p_2074d3edc0.jpg"/>
 
