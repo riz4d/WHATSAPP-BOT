@@ -1,8 +1,5 @@
 ## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ [@ʀɪᴢᴀᴅ__x96]
-##
 
-<details>
-    <summary>License</b></summary><br/>
 <img alt="Toxi Mol" src="https://a.top4top.io/p_2074d3edc0.jpg"/>
 
 
