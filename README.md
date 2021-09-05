@@ -1,8 +1,8 @@
 ## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ [@ʀɪᴢᴀᴅ__x96]
 <details>
     <summary>ʟɪᴄᴇɴsᴇ</summary><br/>
-                                                       <h1><p style="color:rgb(0, 0, 0);"> Apache License <br>
-                                                  Version 2.0, January 2004</p></h2>
+                                                       Apache License
+                                                  Version 2.0, January 2004
                                                http://www.apache.org/licenses/
 
                         TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
