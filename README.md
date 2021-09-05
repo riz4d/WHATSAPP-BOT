@@ -139,29 +139,27 @@
             
             <h1><p style="color:rgb(255, 238, 0);"> Scam Commands ...</p></h1>
             
-            <p style="color:rgb(255, 255, 255);">
             | Command 💻 | Description ℹ️|
             | ---------- | -------------------- |
-            <br> | .scam typing| It shows you typing for 5 minutes.|
-            <br> | .scam recording| It shows you as recording for 5 minutes.|
-            <br> | .scam online| It shows you online for 5 minutes.|
-            <br> | .scam stop| Stops fake actions.|
+            | .scam typing| It shows you typing for 5 minutes.|
+            | .scam recording| It shows you as recording for 5 minutes.|
+            | .scam online| It shows you online for 5 minutes.|
+            | .scam stop| Stops fake actions.|
             
             <h1><p style="color:rgb(255, 238, 0);"> Deep AI Commands...</p></h1>
             
-            <p style="color:rgb(255, 255, 255);">
-            | ---------- | -------------------- |
-            <br> | .colorai| Colorizes the photo.|
-            <br> | .superai| It improves the image quality.|
-            <br> | .dreamai| Applies a deepdream effect to the photo.|
-            <br> | .waifuai| It mixes the color palettes of photo.|
-            <br> | .neuraltalkai| Explain the incident in the photo.|
-            <br> | .toonai| Applies a cartoon effect to the face of image.|
-            <br> | .ttiai| Generates nonexistent photos from your sentence.|
-            <br> | .moodai| It determines your mood from the sentence you write.|
-            <br> | .textai| Creates a virtual story from your sentence.|
-            <br> | .nudityai| Shows the NSFW value of the photo between 1 and 0.|
-            <br> | .ganstyle| Combines pictures with the image link in Config Vars with the help of artificial intelligence.</p>
+             | ---------- | -------------------- |
+             | .colorai| Colorizes the photo.|
+             | .superai| It improves the image quality.|
+             | .dreamai| Applies a deepdream effect to the photo.|
+             | .waifuai| It mixes the color palettes of photo.|
+             | .neuraltalkai| Explain the incident in the photo.|
+             | .toonai| Applies a cartoon effect to the face of image.|
+             | .ttiai| Generates nonexistent photos from your sentence.|
+             | .moodai| It determines your mood from the sentence you write.|
+             | .textai| Creates a virtual story from your sentence.|
+             | .nudityai| Shows the NSFW value of the photo between 1 and 0.|
+             | .ganstyle| Combines pictures with the image link in Config Vars with the help of artificial intelligence.
 
 # Bot link
 
