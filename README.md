@@ -1,5 +1,8 @@
 ## ᴛᴏxɪᴄ ᴍᴡᴏʟ ʙʏ [@ʀɪᴢᴀᴅ__x96]
 
+<img alt="Toxi Mol" src="https://a.top4top.io/p_2074d3edc0.jpg"/>
+
+
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
 | Admin Commands|✅|1.0|
