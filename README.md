@@ -6,8 +6,8 @@
 
 <details>
     <summary>ʟᴀɴɢᴜᴀɢᴇ</summary><br/>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</details>
+<img alt="language" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+ </details>
 
 <img alt="Toxi Mol" src="https://a.top4top.io/p_2074d3edc0.jpg"/>
 
