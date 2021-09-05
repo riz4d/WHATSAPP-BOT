@@ -159,7 +159,7 @@
 
 # Bot link
 
-<a href="https://wa.me/447418326731"><img alt="Whatsapp" src="https://img.shields.io/badge/Toxi Mol-%2336465D.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/447418326731"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 # My Social Profiles
 
