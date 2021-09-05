@@ -161,7 +161,7 @@
 
 
 # Bot link
-
+<body>
 <a href="https://wa.me/447418326731"><img alt="Whatsapp[Toxi Mol]" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 # My Social Profiles
@@ -174,3 +174,4 @@
  
  <a href="https://www.paypal.com/paypalme/rizadx96"><img alt="Paypal" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 
+  </body>
