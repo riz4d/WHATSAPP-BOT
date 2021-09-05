@@ -157,13 +157,17 @@
 | .nudityai| Shows the NSFW value of the photo between 1 and 0.|
 | .ganstyle| Combines pictures with the image link in Config Vars with the help of artificial intelligence.|
 
+# Bot link
+
+<a href="https://wa.me/447418326731"><img alt="Whatsapp" src="https://img.shields.io/badge/Toxi Mol-%2336465D.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+
 # My Social Profiles
 
 <a href="https://www.instagram.com/rizad__x96"><img alt="Instagram" src="https://img.shields.io/badge/rizad__x96-%2336465D.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/rizad_x96"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 <a href="https://github.com/riz4d"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
  
- ## Buy Me Coffee
+# Buy me a coffee
  
  <a href="https://www.paypal.com/paypalme/rizadx96"><img alt="Paypal" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 
