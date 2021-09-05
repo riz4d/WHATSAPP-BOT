@@ -1,9 +1,9 @@
 ## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ [@ʀɪᴢᴀᴅ__x96]
 <details>
     <summary>ʟɪᴄᴇɴsᴇ</summary><br/>
-                                                       <h2> Apache License <br>
+                                                       <h1><p style="color:rgb(0, 0, 0);"> Apache License <br>
                                                   Version 2.0, January 2004<br>
-                                               http://www.apache.org/licenses/</h2>
+                                               http://www.apache.org/licenses/</p></h2>
 
                         TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
                         1. Definitions.
