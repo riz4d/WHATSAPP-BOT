@@ -105,37 +105,37 @@
 <h1><p style="color:rgb(255, 238, 0);"> XMedia Plugin Commands... </p></h1>
             
             <p style="color:rgb(255, 255, 255);">
-            | ---------- | -------------------- |
-            <br> | .mp4enhance| It improves the quality of the video.
-            <br> | .x2mp4| It reduces the quality of the video by 2 times.
-            <br> | .x4mp4| It reduces the quality of the video by 4 times.
-            <br> | .mp4reverse| Plays the video in reverse.
-            <br> | .mp4blur| Blurs the video background.
-            <br> | .mp4vintage| Applies a vintage effect to the video.
-            <br> | .mp4bw| Applies a monochrome effect to the video.
-            <br> | .mp4edge| It calculates the depth of the viden and applies the neon edge effect accordingly.
-            <br> | .mp4image| Converts photo to 5 seconds video.
-            <br> | .gif| It makes the video gif.
-            <br> | .agif| Makes the video an audio gif.
-            <br> | .spectrum| It converts the spectrum of sound into video.
-            <br> | .avec| Converts the frequency range of the sound to 3D video.
-            <br> | .waves| It converts the wavelengths of sound into video.
-            <br> | .frequency| Converts the frequency of the sound to video.
-            <br> | .volumeaudio| Converts the decibel value of sound to video.
-            <br> | .cqtaudio| Converts the cqt value of audio to video.
-            <br> | .mp3eq| Adjusts the sound to a crystal clear level.
-            <br> | .mp3low| It makes the sound deep and slow.
-            <br> | .mp3pitch| It refines and accelerates the sound.
-            <br> | .mp3crusher| It distorts the sound, makes it ridiculous.
-            <br> | .mp3reverse| Plays the sound in reverse.
-            <br> | .x2mp3| It speeds up the sound 2 times.
-            <br> | .mp3volume| It increases the sound level 6 times.
-            <br> | .bwimage| Makes the photo black and white.
-            <br> | .vintageimage| Applies a vintage effect to the photo.
-            <br> | .edgeimage| It calculates the depth of the photo and appropriately applies an edge effect.
-            <br> | .enhanceimage| It improves the quality of the photo.
-            <br> | .grenimage| Applies a grain effect to the photo.
-            <br> | .blurimage| Blurs the background of the photo.</p>
+             | ---------- | -------------------- |
+             | .mp4enhance| It improves the quality of the video.
+             | .x2mp4| It reduces the quality of the video by 2 times.
+             | .x4mp4| It reduces the quality of the video by 4 times.
+             | .mp4reverse| Plays the video in reverse.
+             | .mp4blur| Blurs the video background.
+             | .mp4vintage| Applies a vintage effect to the video.
+             | .mp4bw| Applies a monochrome effect to the video.
+             | .mp4edge| It calculates the depth of the viden and applies the neon edge effect accordingly.
+             | .mp4image| Converts photo to 5 seconds video.
+             | .gif| It makes the video gif.
+             | .agif| Makes the video an audio gif.
+             | .spectrum| It converts the spectrum of sound into video.
+             | .avec| Converts the frequency range of the sound to 3D video.
+             | .waves| It converts the wavelengths of sound into video.
+             | .frequency| Converts the frequency of the sound to video.
+             | .volumeaudio| Converts the decibel value of sound to video.
+             | .cqtaudio| Converts the cqt value of audio to video.
+             | .mp3eq| Adjusts the sound to a crystal clear level.
+             | .mp3low| It makes the sound deep and slow.
+             | .mp3pitch| It refines and accelerates the sound.
+             | .mp3crusher| It distorts the sound, makes it ridiculous.
+             | .mp3reverse| Plays the sound in reverse.
+             | .x2mp3| It speeds up the sound 2 times.
+             | .mp3volume| It increases the sound level 6 times.
+             | .bwimage| Makes the photo black and white.
+             | .vintageimage| Applies a vintage effect to the photo.
+             | .edgeimage| It calculates the depth of the photo and appropriately applies an edge effect.
+             | .enhanceimage| It improves the quality of the photo.
+             | .grenimage| Applies a grain effect to the photo.
+             | .blurimage| Blurs the background of the photo.</p>
             
             <h1><p style="color:rgb(255, 238, 0);"> Scam Commands ...</p></h1>
             
