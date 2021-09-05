@@ -104,7 +104,6 @@
 
 <h1><p style="color:rgb(255, 238, 0);"> XMedia Plugin Commands... </p></h1>
             
-            <p style="color:rgb(255, 255, 255);">
              | ---------- | -------------------- |
              | .mp4enhance| It improves the quality of the video.
              | .x2mp4| It reduces the quality of the video by 2 times.
@@ -137,7 +136,7 @@
              | .grenimage| Applies a grain effect to the photo.
              | .blurimage| Blurs the background of the photo.</p>
             
-            <h1><p style="color:rgb(255, 238, 0);"> Scam Commands ...</p></h1>
+  <h1><p style="color:rgb(255, 238, 0);"> Scam Commands ...</p></h1>
             
             | Command 💻 | Description ℹ️|
             | ---------- | -------------------- |
@@ -146,7 +145,7 @@
             | .scam online| It shows you online for 5 minutes.|
             | .scam stop| Stops fake actions.|
             
-            <h1><p style="color:rgb(255, 238, 0);"> Deep AI Commands...</p></h1>
+  <h1><p style="color:rgb(255, 238, 0);"> Deep AI Commands...</p></h1>
             
              | ---------- | -------------------- |
              | .colorai| Colorizes the photo.|
