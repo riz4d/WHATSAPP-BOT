@@ -145,7 +145,7 @@
 | .scam online| It shows you online for 5 minutes.|
 | .scam stop| Stops fake actions.|
 ### Deep AI Commands 🛠️
-| Command 💻 | Description ℹ️|
+| Komut 💻 | Description ℹ️|
 | ---------- | -------------------- |
 | .colorai| Colorizes the photo.|
 | .superai| It improves the image quality.|
