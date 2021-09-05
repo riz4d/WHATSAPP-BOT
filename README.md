@@ -1,7 +1,7 @@
 ## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ [@ʀɪᴢᴀᴅ__x96]
 <details>
     <summary>ʟɪᴄᴇɴsᴇ</summary><br/>
-<a href="https://raw.githubusercontent.com/riz4d/WHATSAPP-BOT/main/LICENSE"><img alt="Mozilla Public License Version 2.0" src="https://img.shields.io/badge/license-%23121011.svg?style=for-the-badge&logo=Mozilla Public License Version 2.0&logoColor=white"/> 
+<a href="https://raw.githubusercontent.com/riz4d/WHATSAPP-BOT/main/LICENSE"><img alt="Mozilla Public License Version 2.0" src="https://img.shields.io/badge/Mozilla Public License Version 2.0-%23121011.svg?style=for-the-badge&logo=license&logoColor=white"/> 
  </details>
 
 
