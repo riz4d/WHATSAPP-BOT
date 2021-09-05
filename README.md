@@ -4,6 +4,10 @@
 <a href="https://raw.githubusercontent.com/riz4d/WHATSAPP-BOT/main/LICENSE"><img alt="Mozilla Public License Version 2.0" src="https://img.shields.io/badge/Mozilla Public License Version 2.0-%23121011.svg?style=for-the-badge&logo=license&logoColor=white"/> 
  </a></details>
 
+<details>
+    <summary>ʟᴀɴɢᴜᴀɢᴇ</summary><br/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</details>
 
 <img alt="Toxi Mol" src="https://a.top4top.io/p_2074d3edc0.jpg"/>
 
