@@ -1,8 +1,8 @@
 ## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ [@ʀɪᴢᴀᴅ__x96]
 <details>
     <summary>ʟɪᴄᴇɴsᴇ</summary><br/>
-                                                       <h2> Apache License
-                                                  Version 2.0, January 2004
+                                                       <h2> Apache License <br>
+                                                  Version 2.0, January 2004<br>
                                                http://www.apache.org/licenses/</h2>
 
                         TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
