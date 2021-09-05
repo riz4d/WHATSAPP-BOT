@@ -169,7 +169,7 @@
 
 # Source
 
-<a href="https://github.com/riz4d/Whats-Bot"><img alt=Github repo" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/></a>
+<a href="https://github.com/riz4d/Whats-Bot"><img alt="Github repo" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/></a>
 
 # My Social Profiles
 
