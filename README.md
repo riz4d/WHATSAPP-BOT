@@ -2,11 +2,11 @@
 <details>
     <summary>ʟɪᴄᴇɴsᴇ</summary><br/>
                                                        <h1><p style="color:rgb(0, 0, 0);"> Apache License <br>
-                                                  Version 2.0, January 2004<br>
-                                               http://www.apache.org/licenses/</p></h2>
+                                                  Version 2.0, January 2004</p></h2>
+                                               http://www.apache.org/licenses/
 
                         TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-                        1. Definitions.
+                        <br>1. Definitions.
 
                         "License" shall mean the terms and conditions for use, reproduction,
                         and distribution as defined by Sections 1 through 9 of this document.
@@ -65,7 +65,7 @@
                         on behalf of whom a Contribution has been received by Licensor and
                         subsequently incorporated within the Work.
 
-                        2. Grant of Copyright License. Subject to the terms and conditions of
+                        <br>2. Grant of Copyright License. Subject to the terms and conditions of
                         this License, each Contributor hereby grants to You a perpetual,
                         worldwide, non-exclusive, no-charge, royalty-free, irrevocable
                         copyright license to reproduce, prepare Derivative Works of,
