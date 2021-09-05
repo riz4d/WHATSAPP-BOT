@@ -144,8 +144,8 @@
 | .scam recording| It shows you as recording for 5 minutes.|
 | .scam online| It shows you online for 5 minutes.|
 | .scam stop| Stops fake actions.|
-
 ### Deep AI Commands 🛠️
+| Command 💻 | Description ℹ️|
 | ---------- | -------------------- |
 | .colorai| Colorizes the photo.|
 | .superai| It improves the image quality.|
@@ -158,6 +158,7 @@
 | .textai| Creates a virtual story from your sentence.|
 | .nudityai| Shows the NSFW value of the photo between 1 and 0.|
 | .ganstyle| Combines pictures with the image link in Config Vars with the help of artificial intelligence.|
+
 
 # Bot link
 
