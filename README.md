@@ -1,4 +1,4 @@
-## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ <img src="https://readme-typing-svg.herokuapp.com?color=FF8300&size=20&height=40&lines=%40%CA%80%C9%AA%E1%B4%A2%E1%B4%80%E1%B4%85__x96"/>
+## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ <img src="https://readme-typing-svg.herokuapp.com?color=FF8300&size=20&width=1000&lines=%40%CA%80%C9%AA%E1%B4%A2%E1%B4%80%E1%B4%85__x96"/>
 <details>
     <summary>ʟɪᴄᴇɴsᴇ</summary><br/>
 <a href="https://raw.githubusercontent.com/riz4d/WHATSAPP-BOT/main/LICENSE"><img alt="Mozilla Public License Version 2.0" src="https://img.shields.io/badge/Mozilla Public License Version 2.0-%23121011.svg?style=for-the-badge&logo=license&logoColor=white"/> 
