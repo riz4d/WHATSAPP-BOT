@@ -184,9 +184,8 @@
 
 # My Social Profiles
 
-<a href="https://www.instagram.com/rizad__x96"><img alt="Instagram" src="https://img.shields.io/badge/rizad__x96-%2336465D.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/rizad_x96"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-<a href="https://dev.to/muhammed_rizad"><img alt="Whatsapp" src="https://img.shields.io/badge/dev-%23121011.svg?style=for-the-badge&logo=dev&logoColor=white"/> 
+<a href="https://github.com/riz4d"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/></a>
+<a href="https://dev.to/muhammed_rizad"><img alt="dev" src="https://img.shields.io/badge/dev-%23121011.svg?style=for-the-badge&logo=dev&logoColor=white"/> 
  
 # Buy me a coffee
  
