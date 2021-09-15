@@ -178,14 +178,10 @@
 
 <a href="https://wa.me/447418326731"><img alt="Whatsapp[Toxi Mol]" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-# Source
-
-<a href="https://github.com/riz4d/Whats-Bot"><img alt="Github repo" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/></a>
-
 # My Social Profiles
 
 <a href="https://github.com/riz4d"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/></a>
-<a href="https://dev.to/muhammed_rizad"><img alt="dev" src="https://img.shields.io/badge/dev-%23121011.svg?style=for-the-badge&logo=dev&logoColor=white"/> 
+<br><a href="https://dev.to/muhammed_rizad"><img alt="dev" src="https://img.shields.io/badge/dev-%23121011.svg?style=for-the-badge&logo=dev&logoColor=white"/> 
  
 # Buy me a coffee
  
