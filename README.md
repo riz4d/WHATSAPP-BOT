@@ -9,7 +9,7 @@
 <img alt="language" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
  </details>
 
-<img alt="Toxi Mol" src="https://a.top4top.io/p_2074d3edc0.jpg"/>
+<img alt="Toxi Mol" src="https://j.top4top.io/p_2092uhkq40.jpg"/>
 
 <a href="https://wa.me/447418326731"><img alt="Whatsapp[Toxi Mol]" src="https://img.shields.io/badge/Toxi Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
