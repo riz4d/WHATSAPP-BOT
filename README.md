@@ -176,7 +176,7 @@
 
 # Bot Setup
 
-<a href="https://github.com/riz4d/WHATS-BOT"><img alt="LILLY" src="https://img.shields.io/badge/Download-25D366?style=for-the-badge&logo=Download&logoColor=white"/></a>
+<a href="https://github.com/riz4d/WHATS-BOT"><img alt="LILLY" src="https://img.shields.io/badge/Repository-25D366?style=for-the-badge&logo=Download&logoColor=white"/></a>
 
 # My Social Profiles
 
