@@ -176,7 +176,7 @@
 
 # Bot Setup
 
-<a href="https://download2274.mediafire.com/2em6zdc3zjrg/9oqfannhh0dc5gj/LILLY+WA+SESSION_6.0.apk"><img alt="LILLY" src="https://img.shields.io/badge/Download-25D366?style=for-the-badge&logo=Download&logoColor=white"/></a>
+<a href="https://github.com/riz4d/WHATS-BOT"><img alt="LILLY" src="https://img.shields.io/badge/Download-25D366?style=for-the-badge&logo=Download&logoColor=white"/></a>
 
 # My Social Profiles
 
