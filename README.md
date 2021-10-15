@@ -1,4 +1,4 @@
-## ᴛᴏxɪ ᴍᴡᴏʟ ʙʏ [@ʀɪᴢᴀᴅ__x96]
+## LILLY WA
 <details>
     <summary>ʟɪᴄᴇɴsᴇ</summary><br/>
 <a href="https://raw.githubusercontent.com/riz4d/WHATSAPP-BOT/main/LICENSE"><img alt="Mozilla Public License Version 2.0" src="https://img.shields.io/badge/Mozilla Public License Version 2.0-%23121011.svg?style=for-the-badge&logo=license&logoColor=white"/> 
@@ -9,9 +9,9 @@
 <img alt="language" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
  </details>
 
-<img alt="Toxi Mol" src="https://j.top4top.io/p_2092uhkq40.jpg"/>
+<img alt="lilly" src="https://j.top4top.io/p_2092uhkq40.jpg"/>
 
-<a href="https://wa.me/447418326731"><img alt="Whatsapp[Toxi Mol]" src="https://img.shields.io/badge/Toxi Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/447418326731"><img alt="Whatsapp[lilly]" src="https://img.shields.io/badge/Lilly Wa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 | All Features 📢|Available ☑️|Version 🔎|
